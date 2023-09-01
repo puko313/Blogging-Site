@@ -1,34 +1,13 @@
-Contribution: 2013-03-19 20:00
+![Image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/naxpa0453a6bhd69ci1c.png)
 
-Contribution: 2013-03-19 20:01
+# Blogging Website using pure HTML, CSS and JS. 
 
-Contribution: 2013-03-20 20:00
+This project is a mini version of a working blogging website. This project is done by using only HTML, CSS and JS. This is a node.js app. And using firebase as its databse. Features of this Site :-
 
-Contribution: 2013-03-20 20:01
+1. Dynamic Blog pages.
+2. Have a dedicated editor for blogs.
+3. You can add/make as many blogs you want.
+4. You can add Headings, paragraphs, and Images to the blog post. 
+5. Have read more blogs section also.
 
-Contribution: 2013-03-20 20:02
-
-Contribution: 2013-03-20 20:03
-
-Contribution: 2013-03-25 20:00
-
-Contribution: 2013-03-25 20:01
-
-Contribution: 2013-03-25 20:02
-
-Contribution: 2013-03-26 20:00
-
-Contribution: 2013-03-26 20:01
-
-Contribution: 2013-03-26 20:02
-
-Contribution: 2013-03-28 20:00
-
-Contribution: 2013-03-29 20:00
-
-Contribution: 2013-03-29 20:01
-
-Contribution: 2013-03-29 20:02
-
-Contribution: 2013-03-29 20:03
-
+You can checkout it coding tutorial [here](https://youtu.be/AWHGQfzfHxI).
